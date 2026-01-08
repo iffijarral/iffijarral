@@ -10,7 +10,7 @@ I also have experience with **AI systems**, including a **RAG (Retrieval-Augment
 ## Tech Stack
 
 - **Frontend:** Next.js, React, TypeScript, Chakra UI, Bootstrap, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Laravel, Python (Bottle), GraphQL, REST APIs  
+- **Backend:** Node.js, Laravel, Python (FastAPI), GraphQL, REST APIs  
 - **Database:** PostgreSQL, MySQL, MongoDB, SQLite  
 - **DevOps & Infrastructure:** Docker, Docker Compose, NGINX, CI/CD pipelines, Gunicorn  
 
