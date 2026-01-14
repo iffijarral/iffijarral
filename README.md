@@ -1,4 +1,4 @@
-# Hi, I'm Iftikhar Ahmed 🇩🇰
+# Hi, I'm Iftikhar Ahmed
 
 I'm a **Full-Stack Developer** building modern web applications and AI-powered solutions.  
 I love creating **end-to-end applications** with robust backends, responsive UIs, and production-ready deployments.
